@@ -222,8 +222,23 @@ alt="Coding Animation"/>
 
 ## ⭐ Thanks for visiting my profile!
 
+```html
+<div align="center">
+
+<h3>💭 Quote of the Day</h3>
+
+<em>
 "Passionate about solving real-world problems through data, AI, and continuous innovation."
-                                                                ___Ajim Mujawar
+</em>
+
+<br><br>
+
+<b>— Ajim Mujavar</b>
+
+</div>
+```
+
+                                                             
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
 
