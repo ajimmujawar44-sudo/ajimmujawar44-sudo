@@ -8,26 +8,51 @@
 ---
 
 # 👨‍💻 About Me
+```html
+<h2>👨‍💻 About Me</h2>
 
-```python
-class AjimMujawar():
+<table>
+<tr>
 
-    def __init__(self):
-        self.role = "Aspiring Data Scientist"
-        self.language = ["Python", "SQL"]
-        self.interests = [
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Data Analytics",
-            "Deep Learning"
-        ]
-        self.learning = [
-            "Generative AI",
-            "LLMs",
-            "MLOps"
-        ]
+<td width="60%">
 
-me = AjimMujawar()
+<p>
+
+Hi, I'm <b>Ajim Mujawar</b> 👋
+
+🎓 Aspiring <b>Data Scientist</b> passionate about transforming data into meaningful insights and building intelligent AI solutions.
+
+💡 I enjoy solving real-world problems using <b>Python</b>, <b>Machine Learning</b>, and <b>Data Analytics</b> while continuously exploring new technologies.
+
+🌱 Currently learning:
+<ul>
+  <li>🤖 Large Language Models (LLMs)</li>
+  <li>🧠 Generative AI</li>
+  <li>🔗 AI Agents & LangChain</li>
+  <li>📊 Deep Learning</li>
+  <li>☁️ MLOps & Cloud Technologies</li>
+</ul>
+
+🚀 My goal is to become a skilled <b>AI Engineer</b> who builds intelligent, scalable, and impactful applications.
+
+⚡ Fun Fact:
+<b>I believe every dataset has a story waiting to be discovered.</b>
+
+</p>
+
+</td>
+
+<td width="40%" align="center">
+
+<img
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+width="320"
+alt="Coding Animation"/>
+
+</td>
+
+</tr>
+</table>
 ```
 
 ---
@@ -112,17 +137,6 @@ me = AjimMujawar()
 
 ---
 
-# 💻 Current Focus
-
-- 📊 Data Analysis
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 🚀 Generative AI
-- 📈 Data Visualization
-- ⚡ SQL Optimization
-
----
-
 # 📂 Featured Projects
 
 | Project | Description |
@@ -133,6 +147,41 @@ me = AjimMujawar()
 | 🎬 Movie Recommendation | Recommendation System |
 | 📈 Stock Price Prediction | Time Series |
 
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+</tr>
+
+<tr>
+<td>🏦 <b>Bank Risk Analysis</b></td>
+<td>Analyzed customer financial data to assess credit risk and support data-driven lending decisions using SQL, Python, and Machine Learning.</td>
+</tr>
+
+<tr>
+<td>👥 <b>Customer Segmentation</b></td>
+<td>Applied clustering algorithms to identify customer groups for targeted marketing and business insights.</td>
+</tr>
+
+<tr>
+<td>💹 <b>Price Analysis</b></td>
+<td>Performed exploratory data analysis and visualization to uncover pricing trends and support strategic decisions.</td>
+</tr>
+
+<tr>
+<td>🤖 <b>LLM Chatbot</b></td>
+<td>Built an AI-powered chatbot using Large Language Models, LangChain, and OpenAI for intelligent question answering.</td>
+</tr>
+
+<tr>
+<td>🛍️ <b>Product Recommendation System</b></td>
+<td>Developed a recommendation engine using collaborative filtering and machine learning to suggest personalized products.</td>
+</tr>
+
+</table>
+```
+
+
 ---
 
 # 📫 Connect With Me
@@ -142,6 +191,10 @@ me = AjimMujawar()
 <a href="https:/ajimmujawar44-sudo/github.com/">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+<a href="https://https://www.kaggle.com/azimmujawar" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
 
 <a href="https://linkedin.com/in/www.linkedin.com/in/ajim-mujawar-data-scientist">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -168,6 +221,9 @@ me = AjimMujawar()
 <div align="center">
 
 ## ⭐ Thanks for visiting my profile!
+
+"Passionate about solving real-world problems through data, AI, and continuous innovation."
+                                                                ___Ajim Mujawar
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
 
