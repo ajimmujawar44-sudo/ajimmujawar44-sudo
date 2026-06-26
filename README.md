@@ -6,54 +6,58 @@
 </div>
 
 ---
-
-# 👨‍💻 About Me
-```html
+<div align="center">
 <h2>👨‍💻 About Me</h2>
+</div>
 
 <table>
 <tr>
 
-<td width="60%">
+<td width="60%" valign="top">
 
-<p>
+👋 Hi, I'm <b>Ajim Mujawar</b>
 
-Hi, I'm <b>Ajim Mujawar</b> 👋
+<br><br>
 
 🎓 Aspiring <b>Data Scientist</b> passionate about transforming data into meaningful insights and building intelligent AI solutions.
 
-💡 I enjoy solving real-world problems using <b>Python</b>, <b>Machine Learning</b>, and <b>Data Analytics</b> while continuously exploring new technologies.
+<br><br>
 
-🌱 Currently learning:
-<ul>
-  <li>🤖 Large Language Models (LLMs)</li>
-  <li>🧠 Generative AI</li>
-  <li>🔗 AI Agents & LangChain</li>
-  <li>📊 Deep Learning</li>
-  <li>☁️ MLOps & Cloud Technologies</li>
-</ul>
+💡 I enjoy solving real-world problems using <b>Python</b>, <b>Machine Learning</b>, and <b>Data Analytics</b>.
 
-🚀 My goal is to become a skilled <b>AI Engineer</b> who builds intelligent, scalable, and impactful applications.
+<br><br>
 
-⚡ Fun Fact:
-<b>I believe every dataset has a story waiting to be discovered.</b>
+🌱 <b>Currently Learning</b>
 
-</p>
+* 🤖 Large Language Models (LLMs)
+* 🧠 Generative AI
+* 🔗 LangChain & AI Agents
+* 📊 Deep Learning
+* ☁️ MLOps & Cloud Technologies
+
+<br>
+
+🎯 <b>Goal</b>
+
+Become an AI Engineer building scalable, intelligent, and impactful applications.
+
+<br><br>
+
+⚡ <b>Fun Fact</b>
+
+<i>"Every dataset has a story waiting to be discovered."</i>
 
 </td>
 
 <td width="40%" align="center">
 
-<img
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-width="320"
-alt="Coding Animation"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 </td>
 
 </tr>
 </table>
-```
+
 
 ---
 
@@ -222,12 +226,15 @@ alt="Coding Animation"/>
 
 ## ⭐ Thanks for visiting my profile!
 
-```html
 <div align="center">
 
-### 💙 "Passionate about solving real-world problems through data, AI, and continuous innovation."
+<h3>
+💙 <i>"Passionate about solving real-world problems through data, AI, and continuous innovation."</i>
+</h3>
 
-<i>— Ajim Mujavar</i>
+<p>
+<b>— Ajim Mujawar</b>
+</p>
 
 </div>
 ```                                                    
